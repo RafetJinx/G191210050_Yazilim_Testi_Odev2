@@ -1,3 +1,16 @@
+/**
+*
+* @author Rafet ERSOY    rafet.ersoy@ogr.sakarya.edu.tr
+* @since 26.05.2023
+* <p>
+* Belirtilen sayfa icerisinde olmasi gereken ifadenin bulunup bulunmadiginin
+* testini gerceklestirecek olan sınıfımız. 
+* Test arayuzunu implemente etmektedir
+* 
+* Genel Amacı: Belirtilen sayfada olmasi gereken verinin 
+* var olup olmadigini test ediyor.
+* </p>
+*/
 package pkt;
 
 import org.openqa.selenium.By;

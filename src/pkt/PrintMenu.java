@@ -1,3 +1,14 @@
+/**
+*
+* @author Rafet ERSOY    rafet.ersoy@ogr.sakarya.edu.tr
+* @since 26.05.2023
+* <p>
+* Program.java dosyasi tarafindan menu ekranini gostermek
+* icin kullanilacak olan PrintMenu sinifimizdir.
+* 
+* Genel Amacı: Menu ekranini gostermektir.
+* </p>
+*/
 package pkt;
 
 public class PrintMenu {

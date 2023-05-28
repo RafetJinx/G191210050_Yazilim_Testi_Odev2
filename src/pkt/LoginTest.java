@@ -1,3 +1,15 @@
+/**
+*
+* @author Rafet ERSOY    rafet.ersoy@ogr.sakarya.edu.tr
+* @since 26.05.2023
+* <p>
+* Login testi gerceklestirecek olan sınıfımız. 
+* Test arayuzunu implemente etmektedir
+* 
+* Genel Amacı: Login sayfasina deneme verileri girerek
+* sitenin nasil bir cevap verdigini test etmektedir.
+* </p>
+*/
 package pkt;
 
 import org.openqa.selenium.By;

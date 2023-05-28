@@ -1,3 +1,15 @@
+/**
+*
+* @author Rafet ERSOY    rafet.ersoy@ogr.sakarya.edu.tr
+* @since 26.05.2023
+* <p>
+* Renk testi gerceklestirecek olan sınıfımız. 
+* Test arayuzunu implemente etmektedir
+* 
+* Genel Amacı: Site icerisinde renkli bir alan dogru ifade 
+* edildi mi kontrolu gerceklestirecek
+* </p>
+*/
 package pkt;
 
 import org.openqa.selenium.By;

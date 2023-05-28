@@ -1,3 +1,15 @@
+/**
+*
+* @author Rafet ERSOY    rafet.ersoy@ogr.sakarya.edu.tr
+* @since 26.05.2023
+* <p>
+* Chrome penceresinin maksimum buyukluge getirilip getirilmediginin testin 
+* gerceklestirecek olan sınıfımız. 
+* Test arayuzunu implemente etmektedir
+* 
+* Genel Amacı: Chrome penceresinin maksimum boyutta olup olmadigini test etmek
+* </p>
+*/
 package pkt;
 
 import org.openqa.selenium.WebDriver;

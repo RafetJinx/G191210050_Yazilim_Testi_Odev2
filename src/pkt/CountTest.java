@@ -1,3 +1,15 @@
+/**
+*
+* @author Rafet ERSOY    rafet.ersoy@ogr.sakarya.edu.tr
+* @since 26.05.2023
+* <p>
+* Sayaç testi gerceklestirecek olan sınıfımız. 
+* Test arayuzunu implemente etmektedir
+* 
+* Genel Amacı: Site icerisinde bulunması gereken miktarda
+* ifade edilen elementin olup olmadigini test etmektedir.
+* </p>
+*/
 package pkt;
 
 import java.util.List;

@@ -1,3 +1,16 @@
+/**
+*
+* @author Rafet ERSOY    rafet.ersoy@ogr.sakarya.edu.tr
+* @since 26.05.2023
+* <p>
+* Popup testi yaparak popupların olaylarını inceleyecek ve test 
+* islemini gerceklestirecek olan sınıfımız. 
+* Test arayuzunu implemente etmektedir
+* 
+* Genel Amacı: Popup'larin davranislarinin dogru olup 
+* olmadigini test edecek edecek sinifimizdir.
+* </p>
+*/
 package pkt;
 
 import org.openqa.selenium.By;

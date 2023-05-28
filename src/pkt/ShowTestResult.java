@@ -1,3 +1,15 @@
+/**
+*
+* @author Rafet ERSOY    rafet.ersoy@ogr.sakarya.edu.tr
+* @since 26.05.2023
+* <p>
+* Testlerin sonucunda farkli gosterim sekilleri gerekli olabilir.
+* Bu sinif da bu ihtiyac icin hazirlanmistir.
+* 
+* 
+* Genel Amacı: Testlerin ortak bir cikti vermesine imkan saglamak.
+* </p>
+*/
 package pkt;
 
 public class ShowTestResult {

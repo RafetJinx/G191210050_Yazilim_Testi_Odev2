@@ -1,3 +1,14 @@
+/**
+*
+* @author Rafet ERSOY    rafet.ersoy@ogr.sakarya.edu.tr
+* @since 26.05.2023
+* <p>
+* Program.java Projemin main dosyası gorevini gormektedir.
+* 
+* 
+* Genel Amacı: Tüm projeyi calistiracak olan dosyamizdir.
+* </p>
+*/
 package pkt;
 
 import java.util.HashMap;
